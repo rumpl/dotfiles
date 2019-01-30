@@ -1,0 +1,7 @@
+[alias]
+	lg = log --oneline --graph --decorate
+	st = status
+	br = branch
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = vim
